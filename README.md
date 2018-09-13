@@ -1,2 +1,2 @@
 # algorithm-practice
-A bucket for any algorithm practice scripts I write.
+A bucket for any algorithm practice I do.
