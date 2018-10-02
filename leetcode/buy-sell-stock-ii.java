@@ -1,3 +1,4 @@
+// https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
 class Solution {
     public int maxProfit(int[] prices) {
         if (prices.length == 0) {

@@ -1,4 +1,6 @@
+// https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
 #include <vector>
+using namespace std;
 
 class Solution {
 public:

@@ -1,5 +1,7 @@
-#include <stdlib>
+// https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/781/
+#include <cstdlib>
 #include <vector>
+using namespace std;
 
 class Solution {
 public:
@@ -16,7 +18,7 @@ public:
                 if (nums[i] < buf[0]) {
                     buf[0] = nums[i];
                 } else if (buf[0] < nums[i]) {
-                    buf[1] = numes[i];
+                    buf[1] = nums[i];
                     buf_idx++;
                 }
             } else {
